@@ -85,7 +85,8 @@ var REELS_BY_CASE = {
     { platform: 'tiktok', id: '7707091674450709791', user: 'melguber', title: 'Video four', meta: 'Black Friday' },
     { platform: 'tiktok', id: '7705697961975663879', user: 'rosiefleurrs', title: 'Video five', meta: 'Black Friday' },
     { platform: 'tiktok', id: '7705816498291494151', user: 'tjargaille', title: 'Video six', meta: 'Black Friday' },
-    { platform: 'tiktok', id: '7708559231921736968', user: 'serenasurena', title: 'Video seven', meta: 'Black Friday' }
+    { platform: 'tiktok', id: '7708559231921736968', user: 'serenasurena', title: 'Video seven', meta: 'Black Friday' },
+    { platform: 'tiktok', id: '7708629334017314069', user: 'dearr_rina', title: 'Video eight', meta: 'Black Friday' }
     // Add more entries here as you get them, in the same order the slots
     // appear on the page (Advent Calendar, then Black Friday, then Boxing Day).
   ],
