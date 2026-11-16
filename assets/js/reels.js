@@ -30,10 +30,10 @@ var REELS_BY_CASE = {
     { platform: 'tiktok', id: '7658443396263972110', user: 'junlama_', title: 'Video two', meta: '' },
     { platform: 'tiktok', id: '7652767175899385102', user: 'ambermccalmon', title: 'Video three', meta: '' },
     { platform: 'tiktok', id: '7656891127517170957', user: 'its.jackie.d', title: 'Video four', meta: '' },
-    { platform: 'tiktok', id: '7663132341283474691', user: '.mae.jm', title: 'Video five', meta: '' },
+    // removed, account now private: { platform: 'tiktok', id: '7663132341283474691', user: '.mae.jm', title: 'Video five', meta: '' },
     { platform: 'tiktok', id: '7666168720577793293', user: 'alexa_canales_', title: 'Video six', meta: '' },
     { platform: 'tiktok', id: '7656482629419568398', user: 'erinmurphyeq', title: 'Video seven', meta: '' },
-    { platform: 'tiktok', id: '7676555534849314061', user: 'emmackrol', title: 'Video eight', meta: '' },
+    // removed, video unavailable: { platform: 'tiktok', id: '7676555534849314061', user: 'emmackrol', title: 'Video eight', meta: '' },
     { platform: 'tiktok', id: '7660167058285448478', user: 'lilirioss', title: 'Video nine', meta: '' }
   ],
   'k-expo-mexico': [
